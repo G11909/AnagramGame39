@@ -82,7 +82,7 @@ final class StaticWordLibrary extends WordLibrary {
         "vertex",
         "unsigned",
         "traditional",
-        "mathematic"
+        "mathematic",
         "flower"};
 
     private static final String[] SCRAMBLED_WORD_LIST = {
